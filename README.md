@@ -29,17 +29,13 @@ Go to the file directory (to pig or cow folder where you download it). And go to
 
 Then type this:
 
-**python test.py –n cow.jpg**
+    python test.py –n cow.jpg
 
 (cow.jpg means the image you want to test)
 
-<![endif]-->
-
-<![if !supportLists]>1. <![endif]>Python Test code.
-
 There are two separate test codes for cow and pig. You need to run these python test code with the image name you need to test.
 
-**Eg: python test.py –n cow.jpg**
+Eg: `python test.py –n cow.jpg`
 
 **Requirements to run the code**
 
@@ -64,3 +60,4 @@ So her the accuracy of showing year down is 99.93%
 So this is a good accuracy. And almost every test has a good accuracy. (this accuracy means the how much that the model sure that the prediction is correct)
 
 ## Please feel free to contribute fixes, features, or any improvement!
+
